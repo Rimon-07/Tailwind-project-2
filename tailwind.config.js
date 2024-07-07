@@ -7,11 +7,6 @@ module.exports = {
   },
   plugins: [],
 
-  const tailwindcss = {
-    eslint: {
-      ignoreDuringBuilds: true,
-    }
 
-  },
 }
 
